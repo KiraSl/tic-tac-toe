@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 25rem;
+  grid-template-rows: 1fr 1fr 1fr;
+  height: 25rem;
+  background-color: red;
+  column-gap: 2px;
+  row-gap: 2px;
+}
+
+.cell {
+  background-color: white;
+  font-size: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
