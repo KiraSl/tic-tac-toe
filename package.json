@@ -1,0 +1,28 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Play the Tic Tac Toe game ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiraSl/tic-tac-toe.git"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game"
+  ],
+  "author": "Kira Slobodina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiraSl/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/KiraSl/tic-tac-toe#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
